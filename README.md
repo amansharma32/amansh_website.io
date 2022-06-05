@@ -1,2 +1,2 @@
-# amansh_website.io
+# amansh_website
 this is my portfolio website
